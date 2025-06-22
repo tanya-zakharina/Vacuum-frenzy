@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 903f1a849a7f003448aebe4c22adbcf2
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 24b24ddca603b504fb63f5b3f4574d61
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 18fa6406575079446a8377a2f292b3ff
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: df93faceb0845be4ab68981c7b6b8e20
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: a889693b0f8534a41933a46d263c2ed6
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 7248c83ce452ff1439364f0da9ed10b6
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: c55ef64763275794b8ed4d066dc661a4
+  - enabled: 1
+    path: Assets/Scenes/Endless.unity
+    guid: 504e348c2fdf8b241aa6af4bbb9e858e
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: db5206869a3632e4eb49c1ef4319fd0f, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 762daf95ad58b2848b523ba22aff910a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 94a7994929e361949841aefe1a24f10a, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
